@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259854914955",
+    "project_id": "tour-4f9f3",
+    "storage_bucket": "tour-4f9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259854914955:android:f991805ea9107a06030b8e",
+        "android_client_info": {
+          "package_name": "org.microprogramers.tour_guide_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259854914955-v89gkcajqs9g0qg9ncd5e9ckj79vdl58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1OIdg_VcZaFTuwSsNF5SQGUtmd6Tc9tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259854914955-v89gkcajqs9g0qg9ncd5e9ckj79vdl58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
